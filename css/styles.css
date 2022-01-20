@@ -143,6 +143,7 @@ a:hover {
 
 .cloud-bottom{
   position: absolute;
+  right: 200px;
   width: 200px;
   height: 100px;
 }
@@ -178,7 +179,7 @@ a:hover {
   position: absolute;
   width: 150px;
   height: 150px;
-  right: 350px;
+  right: 400px;
   bottom: 350px;
 }
 /***********************ID SELECTOR***********************************/
