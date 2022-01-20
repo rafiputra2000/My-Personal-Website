@@ -56,20 +56,16 @@ a:hover {
   background-color: #EAEAEA;
   position: relative;
   padding-top: 200px;
-  margin: auto;
-
 }
 
 .middle-container{
   margin: 100px 0;
-
 }
 
 .bottom-container{
   /* background-color: #EEF2FF; */
   padding: 50px 0 50px 0;
   background-color: #EEEEEE;
-  margin: auto;
 }
 
 .skill-row{
